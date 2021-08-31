@@ -1,0 +1,12 @@
+[
+  {
+    "name": "cc-ui-uni-app-zjh",
+    "url": "github:jay6697117/cc-ui-uni-app-zjh",
+    "description": "基于Uniapp的UI组件库"
+  },
+  {
+    "name": "vue-cli4-config",
+    "url": "github:jay6697117/vue-cli4-config",
+    "description": "vue-cli4 全面配置"
+  }
+]
